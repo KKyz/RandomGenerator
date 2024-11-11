@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0px;
+  padding: 0px;
+}
+
+* {
+ font-family: myFirstFont;
+}
+
+body {
+  background-color: #ffe51c;
+}
+
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#output {
+  font-size: 2em;
+  text-transform: uppercase;
+  margin-top: 20px;
+  text-align: left;
+  display: inline-block;
+}
